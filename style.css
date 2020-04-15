@@ -4,5 +4,9 @@ h1 {
 }
 
 p {
+<<<<<<< HEAD
     color: pink;
+=======
+    color: blue;
+>>>>>>> branch-2
 }
